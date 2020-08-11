@@ -3,6 +3,10 @@
 
 группа: SQLPY-1
 
+Проект БД:
+
+![Проект БД](https://github.com/romauov/SQLPY-1--DB-design-and-queries/blob/master/DB%20design.jpg)
+
 SQL запросы:
 ```
 create table if not exists Genre (
